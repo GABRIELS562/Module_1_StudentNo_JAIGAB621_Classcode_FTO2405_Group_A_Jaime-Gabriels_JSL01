@@ -1,20 +1,6 @@
 
 
 
-//function validateSyntax() {
-    //let input = document.getElementById('petInput').value;
-
-    
-        // Define the regular expression pattern
-        /*const pattern = /^pet_[a-zA-Z0-9]+$/;
-        if (value.match(/^pet_[a-zA-Z0-9]+$/)) {
-            return ('Valid Syntax');
-          } else {
-            return ('Invalid Syntax');
-          }
-        }
-   */
-
             function validateSyntax() {
                 let input = document.getElementById('petInput').value;
             
