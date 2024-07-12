@@ -1,9 +1,11 @@
 
-        let input = document.getElementById('petInput').value;
+        
 
             function validateSyntax() {
                 // Define the regular expression pattern
                 const pattern = /^pet_[a-zA-Z0-9]+$/;
+
+                let input = document.getElementById('petInput').value;
 
     /* 	
     •	^: Asserts the position at the start of the string.
